@@ -1,0 +1,233 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+/*Background colour*/
+.v63_9 {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, #FCD8D4 0.1%, rgba(241, 206, 214, 0.823721) 17.71%, rgba(234, 200, 216, 0.714239) 28.65%, rgba(226, 192, 218, 0.573477) 42.71%, rgba(218, 185, 219, 0.448355) 55.21%, rgba(213, 180, 220, 0.36494) 63.54%, rgba(206, 174, 222, 0.265885) 73.44%, rgba(200, 168, 223, 0.156403) 84.37%, rgba(190, 159, 225, 0) 100%);
+  );
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+/*Bottom bar*/
+.v63_11 {
+  width: 100%;
+  height: 45px;
+  background: #D5B4DC7D;
+  opacity: 1;
+  position: absolute;
+  top: 979px;
+  left: 0px;
+  overflow: hidden;
+}
+/*Free shipping*/
+.v63_12 {
+  width: 100%;
+  color: #511281;
+  position: absolute;
+  top: 988px;
+  left: 0px;
+  font-family: Cinzel;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v63_13 {
+  width: 100%;
+  height: 124px;
+  background: #FCD8D4;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+/*Beauty barn*/
+.v63_17 {
+  width: 100%;
+  color: #511281;
+  background-color: #FCD8D4;
+ border-width: 0ch;
+  position: absolute;
+  top: 0px;
+  font-family: Clicker Script;
+  font-weight: Regular;
+  font-size: 80px;
+  opacity: 1;
+  text-align: center;
+}
+.v72_24 {
+  width: 752px;
+  height: 237px;
+  background: #D5B4DC;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  left: 659px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v73_30 {
+  width: 752px;
+  height: 225px;
+  background: #D5B4DC;
+  opacity: 1;
+  position: absolute;
+  top: 473px;
+  left: 659px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v73_37 {
+  width: 743px;
+  height: 166px;
+  background: #D5B4DC;
+  opacity: 1;
+  position: absolute;
+  top: 718px;
+  left: 668px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v73_33 {
+  width: 607px;
+  height: 374px;
+  background: #D5B4DC;
+  opacity: 1;
+  position: absolute;
+  top: 560px;
+  left: 36px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+
+.v72_23 {
+  width: 718px;
+  color: #35013F;
+  position: absolute;
+  top: 230px;
+  left: 681px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v72_26 {
+  width: 520px;
+  height: 258px;
+  background: url("../images/v72_26.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 254px;
+  left: 67px;
+  overflow: hidden;
+}
+.v73_27 {
+  width: 115px;
+  color: #511281;
+  position: absolute;
+  top: 199px;
+  left: 101px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v73_28 {
+  width: 94px;
+  color: #511281;
+  position: absolute;
+  top: 199px;
+  left: 412px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v73_29 {
+  width: 630px;
+  color: #35013F;
+  position: absolute;
+  top: 510px;
+  left: 702px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v73_32 {
+  width: 581px;
+  color: #35013F;
+  position: absolute;
+  top: 580px;
+  left: 49px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v73_35 {
+  width: 611px;
+  color: #35013F;
+  position: absolute;
+  top: 776px;
+  left: 698px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v73_40 {
+  width: 100%;
+  color: #511281;
+  ;
+  position: absolute;
+  top: 148px;
+  left: 46px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v73_41 {
+  width: 700px;
+  color: #35013F;
+  position: absolute;
+  top: 884px;
+  left: 702px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}

@@ -1,0 +1,312 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+/*Background colour*/
+.v63_65 {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(171,235,224,1), rgb(205, 248, 242),rgb(255, 236, 234), rgba(241,205,214,0.8237211108207703));
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+/*Bottom bar*/
+.v63_67 {
+  width: 100%;
+  height: 45px;
+  background: rgba(234,199,215,0.7142391800880432);
+  opacity: 1;
+  position: absolute;
+  top: 979px;
+  left: 0px;
+  overflow: hidden;
+}
+/*Free shipping*/
+.v63_68 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 988px;
+  left: 0px;
+  font-family: Cinzel;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+/*Top bar*/
+.v63_69 {
+  width: 100%;
+  height: 124px;
+  background: rgba(176,230,230,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+/* 3 lines
+.v63_70 {
+  width: 76px;
+  height: 57px;
+  background: rgba(1,92,117,1);
+  opacity: 1;
+  position: absolute;
+  top: 29px;
+  left: 46px;
+}*/
+/* cart or customer
+.v63_71 {
+  width: 68px;
+  height: 71px;
+  background: rgba(1,92,117,1);
+  opacity: 1;
+  position: absolute;
+  top: 29px;
+  left: 1221px;
+}*/
+/*cart or customer
+.v63_72 {
+  width: 60px;
+  height: 60px;
+  background: rgba(1,92,117,1);
+  opacity: 1;
+  position: absolute;
+  top: 29px;
+  left: 1343px;
+}*/
+/*Beauty Barn*/
+.v63_73 {
+  width: 100%;
+  color: rgba(1,92,117,1);
+  background-color: rgba(176,230,230,1);
+ border-width: 0ch;
+  position: absolute;
+  top: 0px;
+  font-family: Clicker Script;
+  font-weight: Regular;
+  font-size: 80px;
+  opacity: 1;
+  text-align: center;
+}
+/*Routine*/
+.v63_74 {
+  width: 100%;
+  color: rgba(14,72,88,1);
+  position: absolute;
+  top: 184px;
+  left: 17px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 45px;
+  opacity: 1;
+  text-align: center;
+}
+/*Mask*/
+.v63_75 {
+  width: 400px;
+  color: rgba(14,72,88,1);
+  position: absolute;
+  top: 350px;
+  left: 157px;
+  font-family: Buda;
+  font-weight: Light;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+/*Shampoo*/
+.v63_76 {
+  width: 450px;
+  color: rgba(14,72,88,1);
+  position: absolute;
+  top: 426px;
+  left: 158px;
+  font-family: Buda;
+  font-weight: Light;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+/*conditioner*/
+.v63_77 {
+  width: 450px;
+  color: rgba(14,72,88,1);
+  position: absolute;
+  top: 578px;
+  left: 168px;
+  font-family: Buda;
+  font-weight: Light;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+/*serum*/
+.v63_78 {
+  width: 450px;
+  color: rgba(14,72,88,1);
+  position: absolute;
+  top: 502px;
+  left: 166px;
+  font-family: Buda;
+  font-weight: Light;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+/*Note*/
+.v63_79 {
+  width: 649px;
+  color: rgba(14,72,88,1);
+  position: absolute;
+  top: 654px;
+  left: 139px;
+  font-family: Buda;
+  font-weight: Light;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+/*
+.v66_91 {
+  width: 535px;
+  height: 288px;
+  background: url("../images/v66_91.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 368px;
+  left: 788px;
+  overflow: hidden;
+}*/
+/*Tour guide*/
+.v70_3 {
+  width: 506px;
+  color: rgba(14,72,88,1);
+  position: absolute;
+  top: 661px;
+  left: 806px;
+  font-family: Dekko;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+/*last button
+.v71_5 {
+  width: 284px;
+  height: 58px;
+  background: rgba(181,234,234,1);
+  opacity: 1;
+  position: absolute;
+  top: 866px;
+  left: 1059px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}*/
+/*Checkout*/
+.v71_15 {
+  color: rgba(14,72,88,1);
+  background: rgba(181,234,234,1);
+  opacity: 1;
+  position: absolute;
+  top: 863px;
+  left: 835px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+/*middle button
+.v71_19 {
+  width: 320px;
+  height: 55px;
+  background: rgba(181,234,234,1);
+  opacity: 1;
+  position: absolute;
+  top: 866px;
+  left: 694px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}*/
+/*Skin quiz*/
+.v71_16 {
+ 
+  color: rgba(14,72,88,1);
+  background: rgba(181,234,234,1);
+  position: absolute;
+  top: 863px;
+  left: 650px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+/*first button
+.v71_18 {
+  width: 588px;
+  height: 61px;
+  background: rgba(181,234,234,1);
+  opacity: 1;
+  position: absolute;
+  top: 863px;
+  left: 61px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}*/
+/*Subscription*/
+.v71_17 {
+  
+  color: rgba(14,72,88,1);
+  background: rgba(181,234,234,1);
+  position: absolute;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  top: 863px;
+  left: 71px;
+  font-family: Caudex;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+/*
+.v71_14 {
+  width: 38px;
+  height: 36px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 502px;
+  left: 1040px;
+}*/
+
